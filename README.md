@@ -8,7 +8,7 @@ A self-contained practice environment for CKA exam questions. Clone this repo in
 
 ```bash
 # 1. Clone the repo (on your KillerCoda node)
-git clone https://github.com/<your-username>/cka-simulator.git
+git clone https://github.com/Zamin-DevOps/cka_killer.sh.git
 cd cka-simulator
 
 # 2. Make all scripts executable (one time only)
